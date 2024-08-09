@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilias </h1>
-<h3 align="center">I am currently working as a Software Engineer at HEIG-VD, where I am developing a health platform designed to provide substitution treatment for opioid dependency across Switzerland. (using Gitlab 🫣)</h3>
+<h3 align="center">I am currently working as a Software Engineer at HEIG-VD, where I am developing a health platform designed to monitor prescription of substitution treatment for opioid dependency across Switzerland. (using Gitlab 🫣)</h3>
 
 - 🔭 I’m currently working on [tao-oat.ch](https://www.tao-oat.ch/fr/plateforme_tao_online.html)
 
