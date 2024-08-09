@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **how bittorent protocol works**
 
-- 💬 Ask me about **Java, Spring Boot or React**
-
 - 📫 How to reach me **LinkedIn https://www.linkedin.com/in/ilias-goujgali-20026586/**
 
 <p align="left">
