@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [tao-oat.ch](https://www.tao-oat.ch/fr/plateforme_tao_online.html)
 
-- 🌱 I’m currently learning **How torrent are working**
+- 🌱 I’m currently learning **how bittorent protocol works**
 
 - 💬 Ask me about **Java, Spring Boot or React**
 
