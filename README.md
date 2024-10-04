@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **how bittorent protocol works**
 
-- 📫 How to reach me **LinkedIn https://www.linkedin.com/in/ilias-goujgali-20026586/**
+<!--- 📫 How to reach me **LinkedIn https://www.linkedin.com/in/ilias-goujgali-20026586/** -->
 
 <p align="left">
 </p>
