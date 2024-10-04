@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilias </h1>
-<h3 align="center">I'm currently waiting to begin my new job as Consultant Software Engineer at Aubep SA on 1st november 2024</h3>
+<h3 align="center">I'm currently waiting to begin my new job as  Software Engineer / Consultant at Aubep SA on 1st november 2024</h3>
 <h3 align="center">Previously, I was working as a Software Engineer at HEIG-VD, where I was developing a health platform designed to monitor prescription of substitution treatment for opioid dependency across Switzerland.</h3>
 
 <!-- - 🔭 I’m currently working on [tao-oat.ch](https://www.tao-oat.ch/fr/plateforme_tao_online.html) -->
